@@ -5,3 +5,6 @@ Jeg fik begyndt på at prøve at lave noget, men min terminal er anerledes i for
 24-08-2026
 Jeg er begyndt at programere spillet, jeg er nået til at programere selve spil mekanismer 
 som bolden rygger sig og muligheden for at rykke paddlen og en af de sidte ting som at gøre så du endten får point eller modstanderen får point.
+07-09-2026
+Jeg har implemeret måden at bolden og paddlen rykker sig og en modstander og når man skore får man point og hvis modstanderen skore får den point, 
+men skal have fikset hvordan boldten rykker sig på og nogle andre ting skal finpudses.
